@@ -1,0 +1,29 @@
+* {
+    font-size: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.pet {
+    margin: 10px;
+    padding: 10px;
+}
+
+.petName {
+    color: #2d96ad
+}
+
+h1, h2 {
+    margin: 1em 0;
+  }
+  
+  .form-control li {
+    list-style-type: none;
+  }
+  
+  .pets-listing {
+    margin-bottom: 2em;
+  }
+  

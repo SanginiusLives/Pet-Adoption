@@ -1,0 +1,16 @@
+* {
+    font-size: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.pet {
+    margin: 10px;
+    padding: 10px;
+}
+
+.petName {
+    color: #2d96ad
+}
